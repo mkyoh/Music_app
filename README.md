@@ -3,7 +3,7 @@ This is a Mern stack  music app
 
 ## Overview
 
-To do list app help us to list(add) our favorite music 
+Music app help us to list(add) our favorite music or  create our playlist
 
 ## Technologies Used
 
