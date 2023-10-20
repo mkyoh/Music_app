@@ -1,0 +1,13 @@
+{
+    "links": [
+        {
+            "label": "Home",
+            "href": "/"
+        },
+        
+        {
+            "label": "Login",
+            "href": "./login"
+        }
+    ]
+}

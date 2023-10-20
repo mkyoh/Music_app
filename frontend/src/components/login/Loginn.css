@@ -1,0 +1,47 @@
+.Login{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.LoginBox{
+    margin-top: 8rem;
+    width:350px;
+    height: 300px;
+    background-color: lightgoldenrodyellow;
+    padding: 20px;
+    border-radius: 10px;
+}
+.Loginheader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.input{
+    padding: 20px;
+
+}
+.user{
+    width: 80%;
+    height: 40px;
+    border-radius: 6px;
+    border-width: 1;
+    margin-bottom: 20px;
+}
+.password{
+    width: 80%;
+    height: 40px;
+    border-radius: 6px;
+    border-width: 1;
+}
+.loginbutton{
+    width: 100px;
+    height: 40px;
+    background-color: cadetblue;
+    color: white;
+    border-radius: 6px;
+}
+.loginbutton:hover{
+    background-color: rgb(86, 86, 228);
+}
