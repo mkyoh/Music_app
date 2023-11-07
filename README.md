@@ -3,7 +3,7 @@ This is a Mern stack  music app
 
 ## Overview
 
-Music app help us to list(add) our favorite music or  create our playlist
+Music app help us to list(add) our favorite music or  create our playlis.
 To login just use "admin" for for username and password which will take you to the Song Lists
 
 ## Technologies Used
